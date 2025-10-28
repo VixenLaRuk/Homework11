@@ -7,6 +7,5 @@
         System.out.println("second number: " + number2);
         System.out.println("Sum: " + number1.add(number2));
         System.out.println("Multiplication: " + number1.multiply(number2));
-        System.out.println("hi");
     }
 }
